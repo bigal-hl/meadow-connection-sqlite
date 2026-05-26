@@ -30,7 +30,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/stevenvelozo/meadow-connection-sqlite.git"
+        "url": "https://github.com/fable-retold/meadow-connection-sqlite.git"
     },
     "keywords": [
         "cache"
@@ -38,9 +38,9 @@
     "author": "Steven Velozo <steven@velozo.com> (http://velozo.com/)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/stevenvelozo/meadow-connection-sqlite/issues"
+        "url": "https://github.com/fable-retold/meadow-connection-sqlite/issues"
     },
-    "homepage": "https://github.com/stevenvelozo/meadow-connection-sqlite",
+    "homepage": "https://github.com/fable-retold/meadow-connection-sqlite",
     "engines": {
         "node": ">=22.5.0"
     },

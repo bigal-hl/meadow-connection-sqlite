@@ -2,6 +2,6 @@
 	"Name": "meadow-connection-sqlite",
 	"Version": "1.0.20",
 	"Description": "Meadow SQLite Plugin",
-	"GeneratedAt": "2026-05-26T18:19:36.894Z",
-	"GitCommit": "fbb2aab"
+	"GeneratedAt": "2026-05-26T21:12:31.674Z",
+	"GitCommit": "98a0b59"
 }

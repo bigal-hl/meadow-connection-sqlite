@@ -1,6 +1,6 @@
 # Meadow Connection SQLite
 
-> **[&#9654; Read the Meadow-Connection-Sqlite Documentation](https://fable-retold.github.io/meadow-connection-sqlite/)** &mdash; interactive docs with the full API reference.
+> **[Read the Meadow-Connection-Sqlite Documentation](https://fable-retold.github.io/meadow-connection-sqlite/)** - interactive docs with the full API reference.
 
 A SQLite database connection provider for the Meadow ORM. Wraps [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) as a Fable service, providing file-based database connections with WAL journal mode and DDL generation from Meadow table schemas.
 

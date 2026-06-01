@@ -4,9 +4,7 @@
 
 A SQLite database connection provider for the Meadow ORM. Wraps [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) as a Fable service, providing file-based database connections with WAL journal mode and DDL generation from Meadow table schemas.
 
-[![Build Status](https://github.com/fable-retold/meadow-connection-sqlite/workflows/Meadow-Connection-SQLite/badge.svg)](https://github.com/fable-retold/meadow-connection-sqlite/actions)
-[![npm version](https://badge.fury.io/js/meadow-connection-sqlite.svg)](https://badge.fury.io/js/meadow-connection-sqlite)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[meadow-connection-sqlite on npm](https://www.npmjs.com/package/meadow-connection-sqlite) | [MIT License](LICENSE)
 
 ---
 
